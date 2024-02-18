@@ -2,11 +2,9 @@
 	"name": "service",
 	"service": {
 		"id": "/service",
-		"price": 1200,
-		"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-		"thumb": "https://neryxomka.com/template/img/welcome.png",
-        "thumbs": ["https://neryxomka.com/template/img/welcome.png", "https://neryxomka.com/template/img/welcome.png", "https://neryxomka.com/template/img/welcome.png", "https://neryxomka.com/template/img/welcome.png"],
-		"name": "service"
+		"thumb": "/artemvelihin/img/1.jpg",
+        "thumbs": ["/artemvelihin/img/2.jpg", "/artemvelihin/img/3.jpg"],
+		"description": " Temporary Accommodation: Animal hotels offer a temporary home for pets when their owners are away for reasons such as vacations, business trips, or other commitments. This provides a solution for pet owners who want their animals to receive proper care in a secure environment during their absence.",
+		"name": "Animal hotel"
 	}
 }
